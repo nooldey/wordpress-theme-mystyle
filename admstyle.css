@@ -1,0 +1,75 @@
+body,textarea{font-size:14px;font-family:"Microsoft Yahei",宋体,PMingLiU,Verdana,Arial,Helvetica,sans-serif !important;} 
+input{font-size:14px;font-family:Tahoma,Arial,sans-serif !important;} 
+body{background:url(images/bg.png) #F6F6F6 fixed !important;} 
+.login h1 a {background-image:url('images/logo.png') !important;
+			background-size: 250px 70px;
+			background-position: center; 
+			background-repeat:no-repeat;
+			width: 250px;
+			margin-top: 51px;
+			margin-left: 45px;height: 70px;
+			text-indent:-9999px;
+			overflow:hidden;
+			padding-bottom:15px;
+			display:block;} 
+label {font-size: 15px !important;} 
+#rememberme {margin: 5px 0 0;} 
+#login { background:rgba(0, 0, 0, 0); padding:0 20px 100% 12px; margin: 20px; right: 38%; position:fixed; margin: 2opx;} 
+.login form { margin-left:8px; padding:26px 24px 46px; font-weight:normal; 
+			 background:rgba(255, 255, 255, 0); border: 2px solid #ddd; 
+			  -moz-box-shadow:none; 
+			  box-shadow: 3px 3px 2px 2px #8598A2; -webkit-box-shadow: 2px;} 
+#loginform {-webkit-border-radius:0px;border-radius: 5px;} 
+.login form .input, .login input[type="text"] { 
+		color:#555; font-weight:200; font-size:24px; line-height:1; 
+		width:100%; padding:5px; margin-top:2px; margin-right:6px; margin-bottom:16px; 
+		border:1px solid #FFF; background:rgba(255,255,255,0.3) !important; outline:0; 
+		-moz-box-shadow:none; -webkit-box-shadow:none;
+		box-shadow:none; } 
+.login form .input, .login input[type="text"] { font-size:17px; padding-bottom:11px; padding-top:11px; text-indent:3px; } 
+.login form .input, .login input[type="text"] {border: 1px solid #cbcbcb;} 
+input.button-primary{ margin-top:8px; border:#000; font-weight:bold; text-shadow:#FFF 0 0px 10px;} 
+.login .button-primary { font-size:14px!important; line-height:22px; padding:8px 117px; border-radius:0px; } 
+input.button-primary { background:rgba(255, 255, 255, 0.5);color:#000; } 
+input.button-primary:hover,input.button-primary:focus { background:rgba(255, 255, 255, 0.8);color:#000; } 
+input.button-primary:active{ background:rgba(255, 255, 255, 0.2);color:#000; } 
+.login form .forgetmenot { font-weight:normal; float:none; margin-top:-10px; } 
+.login #nav, .login #backtoblog {
+text-shadow:none !important;
+float:right;
+margin: 15px 30px 0 0px;
+padding: 6px 6px 6px 10px;
+background-color: #21759B;
+background-image: -webkit-gradient(linear,left top,left bottom,from(#2A95C5),to(#21759B));
+background-image: -webkit-linear-gradient(top,#2A95C5,#21759B);
+background-image: -moz-linear-gradient(top,#2A95C5,#21759B);
+background-image: -ms-linear-gradient(top,#2A95C5,#21759B);
+background-image: -o-linear-gradient(top,#2A95C5,#21759B);
+background-image: linear-gradient(to bottom,#2A95C5,#21759B);
+border-bottom-color: #1E6A8D;
+border:1px solid  #21759B;
+-webkit-box-shadow: inset 0 1px 0 rgba(120, 200, 230, 0.5);
+box-shadow: inset 0 1px 0 rgba(120, 200, 230, 0.5);
+color: white!important;
+text-decoration: none;
+text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);} 
+.login #nav:hover,.login #nav:focus, .login #backtoblog:hover, .login #backtoblog:focus{
+background-color: #278AB7;
+background-image: -webkit-gradient(linear,left top,left bottom,from(#2E9FD2),to(#21759B));
+background-image: -webkit-linear-gradient(top,#2E9FD2,#21759B);
+background-image: -moz-linear-gradient(top,#2E9FD2,#21759B);
+background-image: -ms-linear-gradient(top,#2E9FD2,#21759B);
+background-image: -o-linear-gradient(top,#2E9FD2,#21759B);
+background-image: linear-gradient(to bottom,#2E9FD2,#21759B);
+border-color: #1B607F;
+-webkit-box-shadow: inset 0 1px 0 rgba(120, 200, 230, 0.6);
+box-shadow: inset 0 1px 0 rgba(120, 200, 230, 0.6);
+color: white;
+text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);}
+
+.login #nav  a, .login #backtoblog  a{color: #fff!important;text-decoration: none;} 
+.login #nav  a:hover, .login #backtoblog  a:hover{color: #fff!important;} 
+div.error, .login #login_error {display:none;} 
+div.updated, .login .message {background-color: #E0FFE1;border-color: #ACE655;} 
+#footer {margin-top: 520px;text-align: center;padding-bottom: 30px;display: block;}
+
